@@ -1,0 +1,38 @@
+{
+  "name": "how-am-i-doing",
+  "version": "1.0.0",
+  "description": "How is my productivity during worktime",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denyago/how-am-i-doing.git"
+  },
+  "keywords": [
+    "productivity",
+    "tracking"
+  ],
+  "author": "Denys Yahofarov",
+  "contributors": [
+    {
+      "name":  "Denys Yahofarov",
+      "email": "denyago@gmail.com",
+      "url":   "https://github.com/denyago"
+    }
+  ],
+  "engines": {
+    "node": ">= 4.1.1",
+    "npm":  ">= 2.14.4"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/denyago/how-am-i-doing/issues"
+  },
+  "homepage": "https://github.com/denyago/how-am-i-doing#readme",
+  "dependencies": {
+    "diet": "^0.9.14"
+  }
+}
